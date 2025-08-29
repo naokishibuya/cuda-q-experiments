@@ -4,4 +4,5 @@ This repository contains experiment notebooks for [CUDA-Q](https://developer.nvi
 
 ## Notebooks
 
-* [01 — CUDA-Q Intro (Google Colab-ready)](notebooks/01_cuda-q_intro.ipynb)
+* [01 — Introduction](notebooks/01_cuda-q_intro.ipynb)
+* [02 — VQE](notebooks/02_vqe.ipynb)
