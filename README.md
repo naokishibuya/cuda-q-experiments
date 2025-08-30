@@ -4,6 +4,9 @@ This repository contains experiment notebooks for [CUDA-Q](https://developer.nvi
 
 ## Notebooks
 
-* [01 — Introduction](notebooks/01_introduction.ipynb)
-* [02 — VQE](notebooks/02_vqe.ipynb)
-* [03 - Parameter-Shift Gradients](notebooks/03_param_shift_grads.ipynb)
+| Notebook | Google Colab |
+|---|---|
+| [01 - Introduction: Hello, Bell-State](notebooks/01_introduction.ipynb) | <a href="https://colab.research.google.com/github/naokishibuya/cuda-q-experiments/blob/main/notebooks/01_introduction.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [02 - VQE: Hybrid Workflow with 2 Qubits](notebooks/02_vqe.ipynb) | <a href="https://colab.research.google.com/github/naokishibuya/cuda-q-experiments/blob/main/notebooks/02_vqe.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [03 - Parameter-Shift Gradients vs. Finite Diffs](notebooks/03_param_shift_grads.ipynb) | <a href="https://colab.research.google.com/github/naokishibuya/cuda-q-experiments/blob/main/notebooks/03_param_shift_grads.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
+| [04 - QAOA: 2-Qubit Example](notebooks/04_qaoa.ipynb) | <a href="https://colab.research.google.com/github/naokishibuya/cuda-q-experiments/blob/main/notebooks/04_qaoa.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> |
